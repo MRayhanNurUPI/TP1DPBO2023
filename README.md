@@ -7,7 +7,6 @@ Saya Muhammad Rayhan Nur [2100192] mengerjakan Tugas Praktikum 1 dalam mata kuli
 Program ini dibuat dengan tujuan untuk mengimplementasikan konsep pewarisan, komposisi, dan bagaimana satu kelas dapat berinteraksi dengan kelas lain dengan adanya syarat dan batasan.
 
 ## Desain Program
-![alt text](https://github.com/MRayhanNurUPI/LATIHAN4DPBO2023/blob/main/Latihan4DPBO_Muhammad%20Rayhan%20Nur_ClassDiagram.png)
 Program ini menggunakan total 6 kelas yang terdiri dari:
 1) Kelas Human
 2) Kelas Mahasiswa
